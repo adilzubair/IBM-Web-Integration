@@ -1,2 +1,2 @@
-# IBM-Web-Integration
-World Economic Data analysis Web integration
+# Web-Integration
+Web Integration using Flask, HTML and CSS
